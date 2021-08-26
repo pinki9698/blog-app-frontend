@@ -24,7 +24,7 @@ const Base = ({
           An Amazing <span className="text-white">BLOGGING</span> application
         </span> */}
         <div className="container-fluid footer  text-white text-center py-5 padding">
-        <h4>© Copyrights 2021, All rights are reseved.Created by <span>Pinki & Team💙</span></h4>
+        <h4>© Copyrights 2021, All rights are reseved.Created by <span>Pinki💙</span></h4>
         
       </div>
       
